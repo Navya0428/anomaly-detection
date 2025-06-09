@@ -2,11 +2,11 @@
 
 ## Project Report
 
-**https://sugatagh.github.io/dsml/projects/anomaly-detection-in-credit-card-transactions/**
+**https://Navya0428.github.io/dsml/projects/anomaly-detection-in-credit-card-transactions/**
  
 ## Kaggle Notebook
 
-**https://www.kaggle.com/code/sugataghosh/anomaly-detection-in-credit-card-transactions**
+**https://www.kaggle.com/code/Navya0428/anomaly-detection-in-credit-card-transactions**
 
 ## Anomaly Detection
 
