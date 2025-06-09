@@ -6,7 +6,7 @@
  
 ## Kaggle Notebook
 
-**https://www.kaggle.com/code/Navya0428/anomaly-detection-in-credit-card-transactions**
+**https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud**
 
 ## Anomaly Detection
 
